@@ -16,7 +16,7 @@ I started by building a portfolio page using React, with an emphasis on breaking
 
 Here's a cover image of the project:
 
-![Portfolio Page](./portfolio-page/src/assets/readme_cover.png)
+![Portfolio Page](./portfolio-page-in-react/portfolio-page/src/assets/readme_cover.png)
 
 ## Technologies Used
 
