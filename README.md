@@ -17,6 +17,7 @@ I started by building a portfolio page using React, with an emphasis on breaking
 Here's a cover image of the project:
 
 ![Portfolio Page](./portfolio-page-in-react/portfolio-page/src/assets/readme_cover.png)
+![Kaiser Chief Card Site](./portfolio-page-in-react/portfolio-page/src/assets/screenshot.png)
 
 ## Technologies Used
 
