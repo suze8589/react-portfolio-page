@@ -1,6 +1,6 @@
-# My First React Project: Portfolio Page
+# My First React Project: Portfolio Page/Kaiser Chief Card-Site
 
-This is my first React project where I built a simple portfolio page. The goal was to practice React fundamentals and experiment with styling using Tailwind CSS.
+This is my first React project where I built a simple portfolio page or a card-site. The goal was to practice React fundamentals and experiment with styling using Tailwind CSS.
 
 ## Features
 
@@ -10,13 +10,14 @@ This is my first React project where I built a simple portfolio page. The goal w
 
 ## Project Details
 
-I started by building a portfolio page using React, with an emphasis on breaking the page down into reusable components. I integrated Tailwind CSS to quickly prototype the design, ensuring that the page is responsive and user-friendly.
+I started by building a card-site for a band using React, with an emphasis on breaking the page down into reusable components. I integrated Tailwind CSS to quickly prototype the design, ensuring that the page is responsive and user-friendly.
 
 ### Image
 
 Here's a cover image of the project:
 
 ![Portfolio Page](./portfolio-page/src/assets/readme_cover.png)
+![Kaiser Chief Card Site](./portfolio-page/src/assets/screenshot.png)
 
 ## Technologies Used
 
