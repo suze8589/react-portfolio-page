@@ -18,6 +18,7 @@ Here's a cover image of the project:
 
 ![Portfolio Page](./portfolio-page-in-react/portfolio-page/src/assets/readme_cover.png)
 ![Kaiser Chief Card Site](./portfolio-page-in-react/portfolio-page/src/assets/screenshot.png)
+![Kaiser Chief Card Site](./portfolio-page-in-react/portfolio-page/src/assets/demo-band.gif)
 
 ## Technologies Used
 
