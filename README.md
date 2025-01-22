@@ -14,11 +14,12 @@ I started by building a portfolio page using React, with an emphasis on breaking
 
 ### Image
 
-Here's a cover image of the project:
+Here's a cover image and gif of the project:
 
-![Portfolio Page](./portfolio-page-in-react/portfolio-page/src/assets/readme_cover.png)
-![Kaiser Chief Card Site](./portfolio-page-in-react/portfolio-page/src/assets/screenshot.png)
 ![Kaiser Chief Card Site](./portfolio-page-in-react/portfolio-page/src/assets/demo-band.gif)
+![Kaiser Chief Card Site](./portfolio-page-in-react/portfolio-page/src/assets/screenshot.png)
+![Image of Card](./portfolio-page-in-react/portfolio-page/src/assets/readme_cover.png)
+
 
 ## Technologies Used
 
